@@ -1,0 +1,97 @@
+<!DOCTYPE html> 
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <title>Prison Break</title>
+    
+</head> 
+<body>
+    <link rel="video_controls" href="Prison_Break.Js">
+    <link rel="stylesheet" href="Prison_Break.css">
+    <h1>PRISON BREAK</h1>
+    <hr>
+    <p1> Prison Break Contém 5 temporadas Com uma Média de 15 Episódios.</p1>
+    </hr>
+    <h2> ATORES </h2> 
+    <p2> -- MICHAEL SCOFIELD</p2>
+    <p3><br> -- LINCOLN BURROWS</br></p3>
+    <img src="c:\Users\spike\Downloads\prisonbreaak.png" alt="Imagem de prison break" width="800" heigth="600"> 
+    
+    
+    
+    <table width="100%" border="1">
+
+    <tr>
+         <th>Atores</th>
+         <th>Nomes Reais</th>
+         <th>Idade</th>
+    </tr>
+    <tr>
+         <td>Michael Scofield</td>
+         <td>Wentworth Miller</td>
+         <td>33</td>
+    </tr>
+    <tr>
+         <td>Lincoln Burrows</td>
+         <td>Dominic Purcell</td>
+         <td>40</td>
+
+    </tr>
+    <tr>
+         <td>Fernando Sucre</td>
+         <td>Amaury Nolasco</td>
+         <td></td>
+    </tr>
+    <tr>
+         <td>Brad Bellick</td>
+         <td>Wade Williams</td>
+         <td></td>
+    </tr>
+    <tr>
+         <td>Sara Scofield</td>
+         <td>Sarah Wayne Callies</td>
+         <td></td>
+    </tr>
+    <tr>
+        <td>Theodore "T-Bag" Bagwell</td>
+        <td>Robert Knepper</td>
+        <td></td>
+   </tr>
+</table> 
+   <br>
+   <br>
+
+<form>
+
+     <form method="post" ></form>
+<fieldest>
+     <legend><strong><ins>DADOS DA COMUNIDADE DE FANS PRISON BREAK</ins></strong></legend>
+
+  <strong><label for="name" style="color: yellowgreen;">Nome:</strong></label>
+  <input type="text" minlength="3" id="name" />
+
+  <strong><label for="email" style="color: yellowgreen;">Email:</strong></label>
+  <input type="email" id="email" /> 
+
+  <strong><label for="data" style="color:yellowgreen">Data de Nascimento:</label></strong>
+  <input type="date" id="date" />
+
+<br>
+ 
+  <strong><label for="telefone" style="color:yellowgreen">Telefone:</label></strong> 
+  <input type="number" id="telefone" />
+
+  <strong><label for="rede_social" style="color:yellowgreen">Rede Sociais:</label></strong>
+  <input type="text" />
+  <select id="rede_social">
+  <option value="">Selecione</option> 
+  <option value="">Intagram</option>
+  <option value="">Facebook</option>
+  <option value="">Telegram</option>
+  <option value="">Outros</option>
+  </select>
+
+</fieldset>    
+</body>
+</html>
